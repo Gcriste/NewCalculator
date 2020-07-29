@@ -1,1 +1,1 @@
-# NewCalculator
+# NewCalculator built for omnicommander
